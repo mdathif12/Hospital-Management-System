@@ -1,6 +1,6 @@
 # EX NO:- 4  -  Hospital Management System
-# Name - Ameesha jeffi
-# Reg No - 212223220007
+# Name - Mohamed athif rahuman
+# Reg No - 212223220058
 # AIM
 To Develop the Hospital Management System using Star UML tool.
 # PROBLEM STATEMENT
